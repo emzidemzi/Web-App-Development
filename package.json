@@ -1,7 +1,7 @@
 {
   "name": "my-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": " working with mvc",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit" ,
